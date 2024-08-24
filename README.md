@@ -1,5 +1,5 @@
 # PHP-PageLocker
-Easily encrypt php page with just one line of code. !
+- Easily encrypt php page with just one line of code. !
 ----------------
 ### Features
 
@@ -14,3 +14,6 @@ Easily encrypt php page with just one line of code. !
 
 Adding this line of code at the beginning of any PHP page, will lock it. The visitor will need to type
 the password "yourpasswordhere" to pass to the content of the page. (refer example.php file)
+
+# Screenshot :D
+<img src="https://cdn.puttipong-studio.in.th/secure-storage/82222969020240824_123539.png">
