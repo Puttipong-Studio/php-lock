@@ -1,4 +1,4 @@
-<?php include'https://data.puttipong-studio.in.th/puttipongstudio-lock.php'; lock("aepass", 1); ?>
+<?php include'https://data.puttipong-studio.in.th/puttipongstudio-lock.php'; lock("yourpassword", 1); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
